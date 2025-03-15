@@ -15,6 +15,7 @@ def register_stud(stud_name,stud_age,stud_course,stud_add):
 
 def update():
     pass
-
+ 
 def delete():
     pass
+
